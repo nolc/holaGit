@@ -10,6 +10,7 @@ namespace holagit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test hola");
         }
     }
 }
